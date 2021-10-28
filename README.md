@@ -34,26 +34,25 @@
 
 </br>
 </br>
+
 <!-- </br>
 <details>
 <summary>
    Major Projects
 </summary>
 
-</br>
-
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=NutriVeal_WebApp)](https://github.com/Inventor77/NodeJS_Projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=NutriVeal)](https://github.com/Inventor77/NutriVeal)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=Chat-App-with-Sentiment-Analysis)](https://github.com/Inventor77/Chat-App-with-Sentiment-Analysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=Image-Search)](https://github.com/Inventor77/Image-Search) -->
 
-</br>
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<!-- ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
 <!-- </details> -->
 
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inventor77&hide=html)](https://github.com/Inventor77/github-readme-stats)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inventor77.Inventor77)
+</br>
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inventor77.Inventor77)

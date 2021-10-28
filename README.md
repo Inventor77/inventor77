@@ -27,6 +27,8 @@
 </br>
 </br>
 </br>
+</br>
+</br>
 
 ![Inventor's github stats](https://github-readme-stats.vercel.app/api?username=Inventor77&show_icons=true&theme=radical)
 
@@ -40,7 +42,7 @@
 
 </br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=NutriVeal_WebApp)](https://github.com/Inventor77/NodeJS_Projects)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=NutriVeal_WebApp)](https://github.com/Inventor77/NodeJS_Projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=NutriVeal)](https://github.com/Inventor77/NutriVeal)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=Chat-App-with-Sentiment-Analysis)](https://github.com/Inventor77/Chat-App-with-Sentiment-Analysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=Image-Search)](https://github.com/Inventor77/Image-Search) -->
@@ -48,7 +50,7 @@
 </br>
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</details>
+<!-- </details> -->
 
 ### Top Languages
 

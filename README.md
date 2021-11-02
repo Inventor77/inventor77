@@ -1,4 +1,4 @@
-# Hi there 👋 I am [Shreedutt Dixit](#)
+# Hi there 👋 I am [Shreedutt](#)
 
 <a href="https://www.linkedin.com/in/shreedutt-dixit-613383191/">
   <img align="left" alt="Shreedutt's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

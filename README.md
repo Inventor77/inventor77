@@ -58,7 +58,7 @@
 <!-- [![Top Langs]()](https://github.com/Inventor77/github-readme-stats) -->
 <!-- ![Inventor's github stats](theme=radical) -->
          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inventor77&hide=html&show_icons=true&layout=compact&theme=dark" alt="Inventor77" />
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Inventor77&show_icons=true&&theme=dark" alt="Inventor77" />
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Inventor77&show_icons=true&&theme=dark" alt="Inventor77" />
   </a>
 </p>
 

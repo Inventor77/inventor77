@@ -29,10 +29,11 @@
 <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" width="350" height="240" />
 
 
-- Currently, working on ReactJS </br></br>
-- Learning BlockChain </br></br>
-- Open source Enthusiast </br></br>
-- Most of my projects are available on Github</br></br>
+- Currently, working on <b>React TypeScript</b> </br></br>
+- <b>Hackathon</b>  Lover </br></br>
+- Learning <b>BlockChain</b>  </br></br>
+- <b>Open Source</b>  Enthusiast </br></br>
+- Most of my projects are available on <b>Github</b> </br></br>
 
 </br>
 </br>
@@ -61,8 +62,6 @@
     <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Inventor77&show_icons=true&&theme=dark" alt="Inventor77" />
   </a>
 </p>
-
-</br>
 </br>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inventor77.Inventor77)

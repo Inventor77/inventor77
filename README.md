@@ -9,6 +9,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/inventor77)](https://github.com/inventor77/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreedutt-dixit-613383191/)](https://www.linkedin.com/in/shreedutt-dixit-613383191/)
+</br>
+I don't know why I have mentioned the github profile above, but I don't care. :satisfied:
 
 </br>
 

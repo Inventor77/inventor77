@@ -28,6 +28,13 @@ I'm Shreedutt, a software developer who loves building web applications with Rea
 - 🌱 I’m currently learning Next.js and GraphQL.
 - 💬 Ask me about anything, I am happy to help.
 
+## :speech_balloon: Let's connect!
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shreedutt-dixit-613383191/) or [Twitter](https://twitter.com/Invent_or77). I'm always looking to network and collaborate with other developers.
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreedutt-dixit-613383191/)](https://www.linkedin.com/in/shreedutt-dixit-613383191/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ShreeduttDixit/)](https://twitter.com/Invent_or77/)
+
 ## My stats
 
 ![Inventor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inventor77&show_icons=true&theme=tokyonight&count_private=true)

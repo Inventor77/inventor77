@@ -7,25 +7,22 @@
   <img align="left" alt="Shreedutt's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a> -->
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/inventor77)](https://github.com/inventor77/)
+<!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/inventor77)](https://github.com/inventor77/) -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreedutt-dixit-613383191/)](https://www.linkedin.com/in/shreedutt-dixit-613383191/)
 </br>
-I don't know why I have mentioned the github profile above, but I don't care. :satisfied:
+<!-- I don't know why I have mentioned the github profile above, but I don't care. :satisfied: -->
 
 </br>
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-<!-- ![Node]((https://img.shields.io/badge/-node.js-000000?style=flat&logo=Nodejs&logoColor=339933)) -->
 ![HTML5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=css3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=CD6799)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<!-- ![Node]((https://img.shields.io/badge/-node.js-000000?style=flat&logo=Nodejs&logoColor=339933)) -->
 
-
-
-
-</br>
+<!-- </br> -->
 
 ## My profile overview
 
@@ -34,12 +31,15 @@ I don't know why I have mentioned the github profile above, but I don't care. :s
 <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" width="350" height="240" />
 
 
-- Currently, working on <b>React TypeScript</b> </br></br>
+- Currently, working on <b>React TypeScript</b> </br>
+- <b>Open Source</b>  Enthusiast </br>
+- Most of my projects are available on <b>Github</b> </br>
 <!-- - <b>Hackathon</b>  Lover </br></br> -->
 <!-- - Learning <b>BlockChain</b>  </br></br> -->
-- <b>Open Source</b>  Enthusiast </br></br>
-- Most of my projects are available on <b>Github</b> </br></br>
 
+</br>
+</br>
+</br>
 </br>
 </br>
 
@@ -60,11 +60,11 @@ I don't know why I have mentioned the github profile above, but I don't care. :s
 ### Top Languages
 
 <p >
-   <a href="https://github.com/Inventor77/">
+  <a href="https://github.com/Inventor77/" style="display: flex; align-items: center; justify-content: space-between;">
 <!-- [![Top Langs]()](https://github.com/Inventor77/github-readme-stats) -->
 <!-- ![Inventor's github stats](theme=radical) -->
-         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inventor77&hide=html&show_icons=true&layout=compact&theme=dark" alt="Inventor77" />
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Inventor77&show_icons=true&&theme=dark" alt="Inventor77" />
+    <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inventor77&hide=html&show_icons=true&layout=compact&theme=dark" alt="Inventor77" />
+    <img  height="184em" src="https://github-readme-stats.vercel.app/api?username=Inventor77&show_icons=true&&theme=dark" alt="Inventor77" />
   </a>
 </p>
 </br>

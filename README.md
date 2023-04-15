@@ -32,8 +32,8 @@ I don't know why I have mentioned the github profile above, but I don't care. :s
 
 
 - Currently, working on <b>React TypeScript</b> </br></br>
-- <b>Hackathon</b>  Lover </br></br>
-- Learning <b>BlockChain</b>  </br></br>
+<!-- - <b>Hackathon</b>  Lover </br></br> -->
+<!-- - Learning <b>BlockChain</b>  </br></br> -->
 - <b>Open Source</b>  Enthusiast </br></br>
 - Most of my projects are available on <b>Github</b> </br></br>
 

@@ -1,72 +1,39 @@
 # Konnichiwa Developer, I am [Shreedutt](#) (@Inventor77) :crystal_ball:
 
-<!-- <a href="https://www.linkedin.com/in/shreedutt-dixit-613383191/">
-  <img align="left" alt="Shreedutt's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/inventor77/">
-  <img align="left" alt="Shreedutt's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a> -->
+### Hi there 👋
 
-<!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/inventor77)](https://github.com/inventor77/) -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreedutt-dixit-613383191/)](https://www.linkedin.com/in/shreedutt-dixit-613383191/)
-</br>
-<!-- I don't know why I have mentioned the github profile above, but I don't care. :satisfied: -->
+I'm Shreedutt, a software developer who loves building web applications with React and TypeScript. I'm also an open-source enthusiast and most of my projects are available on GitHub. 
 
-</br>
+- 🌱 I'm currently working on improving my skills in React and TypeScript
+- 💻 I'm passionate about building web applications that solve real-world problems
+- 👯 I'm always looking to collaborate on exciting new projects
+- 💬 Feel free to reach out to me for help with any of my projects or just to say hi!
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=css3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=CD6799)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-<!-- ![Node]((https://img.shields.io/badge/-node.js-000000?style=flat&logo=Nodejs&logoColor=339933)) -->
+## My skills
 
-<!-- </br> -->
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 ## My profile overview
 
-</br>
-
 <img align="right" alt="GIF" src="https://giffiles.alphacoders.com/297/2970.gif" width="350" height="240" />
 
+- 🔭 I’m currently working on a React TypeScript project.
+- 🌱 I’m currently learning Next.js and GraphQL.
+- 💬 Ask me about anything, I am happy to help.
 
-- Currently, working on <b>React TypeScript</b> </br>
-- <b>Open Source</b>  Enthusiast </br>
-- Most of my projects are available on <b>Github</b> </br>
-<!-- - <b>Hackathon</b>  Lover </br></br> -->
-<!-- - Learning <b>BlockChain</b>  </br></br> -->
+## My stats
 
-</br>
-</br>
-</br>
-</br>
-</br>
+![Inventor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inventor77&show_icons=true&theme=tokyonight&count_private=true)
 
-<!-- </br>
-<details>
-<summary>
-   Major Projects
-</summary>
+## Top Languages
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=NutriVeal_WebApp)](https://github.com/Inventor77/NodeJS_Projects)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=NutriVeal)](https://github.com/Inventor77/NutriVeal)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=Chat-App-with-Sentiment-Analysis)](https://github.com/Inventor77/Chat-App-with-Sentiment-Analysis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Inventor77&repo=Image-Search)](https://github.com/Inventor77/Image-Search) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inventor77&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
-<!-- </details> -->
-
-### Top Languages
-
-<p >
-  <a href="https://github.com/Inventor77/" style="display: flex; align-items: center; justify-content: space-between;">
-<!-- [![Top Langs]()](https://github.com/Inventor77/github-readme-stats) -->
-<!-- ![Inventor's github stats](theme=radical) -->
-    <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inventor77&hide=html&show_icons=true&layout=compact&theme=dark" alt="Inventor77" />
-    <img  height="184em" src="https://github-readme-stats.vercel.app/api?username=Inventor77&show_icons=true&&theme=dark" alt="Inventor77" />
-  </a>
-</p>
-</br>
-
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inventor77.Inventor77)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inventor77.Inventor77)
